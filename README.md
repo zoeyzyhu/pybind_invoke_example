@@ -14,7 +14,7 @@ When it comes to creating Python bindings for C++ code, both `cmake` and `invoke
 
 ## About this repo
 
-This is a toy example showing how to create Python bindings to interface with a C++ library using invoke.
+This is a toy example showing how to create Python bindings to interface with a C++ library using invoke. Please see [`pybind_cmake_simple`](https://github.com/zoeyzyhu/pybind_cmake_simple) for an introduction using `cmake` instead of `invoke`. For a more structured approach in `cmake`, please see [`pybind_cmake_list`](https://github.com/zoeyzyhu/pybind_cmake_example). 
 
 ## Environment
 It runs on Linux and MacOS.
