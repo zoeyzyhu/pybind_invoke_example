@@ -27,13 +27,13 @@ source env/bin/activate
 ./2.install.sh
 ```
 
-## Check the available invoke tasks.
+## Check the available invoke tasks
 
 ```
 invoke --list
 ```
 
-## Test the bindings.
+## Test the bindings
 ```
 invoke test-pybind11
 ```
